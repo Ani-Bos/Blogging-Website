@@ -1,0 +1,35 @@
+/* .max-width-1{
+    max-width:  80vw;
+   
+}
+
+.max-width-2{
+max-width: 60vw;
+} */
+
+.m-auto{
+    margin: auto;
+}
+
+.btn{
+padding: 0px 9px;
+border: 1.5px solid black;
+border-radius: 10px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+cursor: pointer;
+transition: all 0.6s ease-in-out;
+}
+
+.btn:hover{
+    color: white;
+    background-color: rgb(51, 176, 51);
+}
+
+.form-input{
+    padding: 0px 5px;
+    font-size: 16px;
+    border: 2px solid black;
+    margin: 0 13px;
+    border-radius: 4px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
